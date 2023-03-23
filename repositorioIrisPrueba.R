@@ -15,5 +15,5 @@ write.csv(iris, "iris.csv")
 x <- 2 
 y <- 3
 
-x*3+y
+z <- x*3+y
 

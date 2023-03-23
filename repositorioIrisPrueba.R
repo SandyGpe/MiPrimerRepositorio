@@ -9,3 +9,11 @@ ggsave("iris.png")
 write.csv(iris, "iris.csv")
 
 #Otro cambio
+
+# Cambios de Haydeé
+
+x <- 2 
+y <- 3
+
+x*3+y
+

@@ -16,7 +16,7 @@ write.csv(iris, "iris.csv")
 
 # Cambios de Haydeé
 
-x <- 2 
+x <- 4
 y <- 3
 
 z <- x*3+y
